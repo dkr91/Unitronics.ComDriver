@@ -1,0 +1,9 @@
+C:\Users\kaida\Desktop\PLC_C#_Projekts\Hausstererung\Source Code\bin\Release\Unitronics.ComDriver.exe.config
+C:\Users\kaida\Desktop\PLC_C#_Projekts\Hausstererung\Source Code\bin\Release\Unitronics.ComDriver.exe
+C:\Users\kaida\Desktop\PLC_C#_Projekts\Hausstererung\Source Code\bin\Release\Unitronics.ComDriver.pdb
+C:\Users\kaida\Desktop\PLC_C#_Projekts\Hausstererung\Source Code\obj\Release\Unitronics.ComDriver.csprojResolveAssemblyReference.cache
+C:\Users\kaida\Desktop\PLC_C#_Projekts\Hausstererung\Source Code\obj\Release\Unitronics.ComDriver.Resources.ComDriverResource.resources
+C:\Users\kaida\Desktop\PLC_C#_Projekts\Hausstererung\Source Code\obj\Release\Unitronics.ComDriver.UserControl1.resources
+C:\Users\kaida\Desktop\PLC_C#_Projekts\Hausstererung\Source Code\obj\Release\Unitronics.ComDriver.csproj.GenerateResource.Cache
+C:\Users\kaida\Desktop\PLC_C#_Projekts\Hausstererung\Source Code\obj\Release\Unitronics.ComDriver.exe
+C:\Users\kaida\Desktop\PLC_C#_Projekts\Hausstererung\Source Code\obj\Release\Unitronics.ComDriver.pdb
